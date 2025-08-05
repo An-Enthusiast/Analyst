@@ -1,3 +1,6 @@
+IF YOU ARE UNABLE TO SEE THE NOTEBOOK PREVIEW PLEASE PASTE THE GITHUB LINK IN NBVIEWER: https://nbviewer.org/  
+
+
 Coca_Cola_Live is a notebook where the stock price for coco cola has been prediceted.  
 The data has been trained on the past 5 years of ohlcv as well as dividends and stock split for the company.  
 Algorithms used: RandomForestRegressor and GridSearchCV.  
